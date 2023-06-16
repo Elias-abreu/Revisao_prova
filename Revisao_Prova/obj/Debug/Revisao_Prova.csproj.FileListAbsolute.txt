@@ -1,0 +1,11 @@
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\obj\Debug\Revisao_Prova.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\obj\Debug\Revisao_Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\obj\Debug\Revisao_Prova.Form1.resources
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\obj\Debug\Revisao_Prova.Properties.Resources.resources
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\obj\Debug\Revisao_Prova.csproj.GenerateResource.cache
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\obj\Debug\Revisao_Prova.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\bin\Debug\Revisao_Prova.exe.config
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\bin\Debug\Revisao_Prova.exe
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\bin\Debug\Revisao_Prova.pdb
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\obj\Debug\Revisao_Prova.exe
+C:\Users\elias\source\repos\Revisao_Prova\Revisao_Prova\obj\Debug\Revisao_Prova.pdb
